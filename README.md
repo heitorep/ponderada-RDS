@@ -10,7 +10,7 @@
 
 ### Modelo Lógico
 
-O diagrama do modelo lógico abaixo ilustra a estrutura e as relações entre as entidades do banco de dados `HealthDB`.
+&emsp;&emsp;O diagrama do modelo lógico abaixo ilustra a estrutura e as relações entre as entidades do banco de dados `HealthDB`.
 
 <div align="center">
   <sub>Figura 1 - Modelo Lógico do Bando de Dados</sub>
@@ -214,4 +214,4 @@ ORDER BY
 ```
 
 ## 📊 Conclusão
-Este documento fornece uma visão completa das configurações e operações realizadas no HealthDB. Através do uso do Amazon RDS e MySQL Workbench, foi possível estabelecer uma solução robusta para a gestão de serviços de saúde relacionados ao transporte e entrega de produtos médicos.
+&emsp;&emsp;Este documento fornece uma visão completa das configurações e operações realizadas no HealthDB. Através do uso do Amazon RDS e MySQL Workbench, foi possível estabelecer uma solução robusta para a gestão de serviços de saúde relacionados ao transporte e entrega de produtos médicos.
